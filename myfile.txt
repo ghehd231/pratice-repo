@@ -3,3 +3,8 @@ add: test
 pull: 원격 저장소의 내용을 가져오기
 
 issue3에서의 커밋 (pull)
+
+
+origin
+-------
+issue1에서 커밋
